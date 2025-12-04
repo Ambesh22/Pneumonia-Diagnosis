@@ -10,7 +10,7 @@ A deep learning system for diagnosing medical conditions from images (e.g., X-ra
 
 ## Features
 - Supports image classification for multiple conditions (e.g., pneumonia, fractures).
-- Pre-trained CNN models (e.g., ResNet, VGG).
+- Created CNN Model from scratch.
 - Visualization of model predictions with heatmaps.
 - Processes standard image formats (JPEG, PNG).
 
